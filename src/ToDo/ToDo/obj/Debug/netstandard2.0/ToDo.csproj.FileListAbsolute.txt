@@ -1,0 +1,15 @@
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ToDo.deps.json
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ToDo.dll
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\bin\Debug\netstandard2.0\ToDo.pdb
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.csproj.AssemblyReference.cache
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.AssemblyInfoInputs.cache
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.AssemblyInfo.cs
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.dll
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\refint\ToDo.dll
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ToDo.pdb
+C:\Users\j_v_d\Source\Repos\ToDo\ToDo\ToDo\obj\Debug\netstandard2.0\ref\ToDo.dll

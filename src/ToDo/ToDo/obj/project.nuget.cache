@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "em6sMRdtkIGPKdGk2yB4Zf4olEb6IF5DaommJ91HBSeIuAHe9IBP0Ki1nXDJi6nvtQg7m0/hOfQKK2QXKxAC2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\j_v_d\\Source\\Repos\\ToDo\\ToDo\\ToDo\\ToDo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j_v_d\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\j_v_d\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\j_v_d\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\j_v_d\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
