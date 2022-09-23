@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Windows.Input;
 using ToDo.Models;
@@ -10,7 +11,7 @@ namespace ToDo.ViewModels
     public class MainPageViewModel : INotifyPropertyChanged
     {
         string newToDo;
-        private List<string> toDoItems = new List<string>
+        private ObservableCollection<string> toDoItems = new ObservableCollection<string>
         {
             "Item 1",
             "Item 2"
@@ -38,7 +39,7 @@ namespace ToDo.ViewModels
             }
         }
 
-        public List<string> ToDoItems
+        public ObservableCollection<string> ToDoItems
         {
             get
             {
@@ -54,10 +55,8 @@ namespace ToDo.ViewModels
         public ICommand CreateNewItemCommand => new Command(CreateNewItem);
         private void CreateNewItem(object a)
         {
-            //werkt nog niet helemaal.
-            var newList = ToDoItems;
-            newList.Add(newToDo);
-            ToDoItems = newList;
+            ToDoItems.Add(newToDo);
+            //PropertyChanged(this, new PropertyChangedEventArgs(nameof(ToDoItems)));
             NewToDo = null;
         }
 

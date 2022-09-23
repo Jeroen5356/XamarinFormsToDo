@@ -6,7 +6,17 @@
         <Label Text="Create new item"/>
         <Entry Text="{Binding NewToDo}" Placeholder="{Binding NewToDoPlaceHolder}"/>
         <Button Command="{Binding CreateNewItemCommand}" Text="Add"/>
-        <ListView ItemsSource="{Binding ToDoItems}">
+        <ListView ItemsSource="{Binding ToDoItems, Mode=TwoWay}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Button Grid.Column="0" Text="Remove"></Button>
+                            <Label Grid.Column="1" Text="{Binding .}"></Label>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
         </ListView>
     </StackLayout>
 
